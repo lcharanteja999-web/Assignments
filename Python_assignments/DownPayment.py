@@ -1,8 +1,4 @@
-Savings
-
 #collaborators = M. sujith
-
-
 # take annual salary from user
 annual_salary = float(input("Enter your annual salary: "))
 
